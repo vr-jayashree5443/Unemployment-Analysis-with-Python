@@ -40,11 +40,12 @@ Let's walk through the provided code step by step, explaining how it works:
    - The code prints the calculated MSE and R2 values to the console. These metrics provide a quantitative assessment of how well the model performs.
 
 10. **Visualization**:
-![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/cae9f10c-874c-4fc9-b5a8-d935a6f9d750)
+    
+   ![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/cae9f10c-874c-4fc9-b5a8-d935a6f9d750)
 
-![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/9639fdd2-c90f-49b0-89b3-72b629317d78)
+   ![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/9639fdd2-c90f-49b0-89b3-72b629317d78)
 
-![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/46e46547-1414-4afa-a7b7-485fdc56ddb2)
+   ![image](https://github.com/vr-jayashree5443/Unemployment-Analysis-with-Python/assets/128161257/46e46547-1414-4afa-a7b7-485fdc56ddb2)
 
 
 
